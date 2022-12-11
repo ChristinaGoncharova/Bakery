@@ -1,5 +1,5 @@
 # Bakery Shop
 
-- [Лэндинг для магазина-пекарни]([https://pages.github.com/](https://christinagoncharova.github.io/Bakery/))
+- This site was built using [GitHub Pages](https://pages.github.com/)
 * Учебный проект
 + Изучение основ HTML и CSS
