@@ -1,2 +1,2 @@
-# Bakery
-Landing for Bakery Shop
+# Сайт магазина-пекарни
+## Учебный проект
